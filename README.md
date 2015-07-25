@@ -1,6 +1,4 @@
-
 Curso de Progración Avanzada en Python, 4ª Edición
-
 Ejercicios presentados en el Curso de Programación Avanzada en Python (2ª Edición), del Centro de Enseñanzas Virtuales de la Universidad de Granada:
 
 	Tema 1: Bases de datos con MySQLdb
